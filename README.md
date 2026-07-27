@@ -9,10 +9,6 @@ Building scalable web applications, secure backend systems, and AI-powered produ
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ideveshtripathii&label=Profile%20Views&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/idevesh-tripathi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -35,76 +31,76 @@ I'm a **Full Stack MERN Developer** passionate about building scalable web appli
 
 - 💼 Web Developer Intern at **Navigant Technologies**
 - 🎓 MCA Graduate from **Babu Banarasi Das University**
-- 🚀 Experienced in developing production-ready applications using **React.js, Node.js, Express.js, TypeScript, MongoDB, Redis, and Socket.io**
-- 🔐 Skilled in REST API development, JWT Authentication, Clerk Authentication, Stripe Integration, Redis Caching, Cloudinary, ImageKit, and Webhooks
-- 🤖 Passionate about AI-powered applications, backend architecture, and performance optimization
-- 💼 Open to **Full Stack Developer, Backend Developer, Software Engineer, and Freelance opportunities**
+- 🚀 Experienced in React.js, Node.js, Express.js, TypeScript, MongoDB, Redis, Socket.io, and REST API development
+- 🔐 Experienced with JWT Authentication, Clerk Authentication, Stripe Integration, Redis Caching, Cloudinary, ImageKit, and Webhooks
+- 🤖 Interested in backend architecture, scalable systems, and AI-powered applications
+- 💼 Open to Full Stack Developer, Backend Developer, Software Engineer, and Freelance opportunities
 
 ---
 
 # 🚀 Featured Projects
 
-## 🚀 PromptStack — AI SaaS Platform
+## 🚀 PromptStack – AI SaaS Platform
 
 Production-grade AI SaaS platform featuring real-time AI conversations and AI image generation.
 
-### Key Features
+### Highlights
 
-- ⚡ Real-time AI response streaming with Socket.io
-- 🧠 Context-aware conversations powered by Gemini 2.5 Flash
-- 🎨 AI Image Generation using ImageKit
-- 💳 Stripe-powered credit system
-- 🚀 Redis caching for improved performance
-- 🔐 JWT Authentication
-- 📱 Responsive UI with React and Tailwind CSS
+- Real-time AI response streaming using Socket.io
+- Context-aware conversations powered by Gemini 2.5 Flash
+- AI Image Generation using ImageKit
+- Stripe-powered credit system
+- Redis caching for improved performance
+- JWT Authentication
+- Responsive UI built with React and Tailwind CSS
 
 **Tech Stack**
 
 `React` • `Node.js` • `Express.js` • `MongoDB` • `Redis` • `Socket.io` • `Stripe` • `Gemini AI` • `ImageKit`
 
-🔗 **Live Demo:** https://promptstack-ai.vercel.app/
+🌐 **Live Demo:** https://promptstack-ai.vercel.app/
 
 ---
 
-## 💼 InsiderJobs — AI Job Portal
+## 💼 InsiderJobs – AI Job Portal
 
 AI-powered recruitment platform connecting recruiters and job seekers.
 
-### Key Features
+### Highlights
 
-- 👥 Role-Based Access Control (RBAC)
-- 📄 AI Resume Parser
-- 🎤 Mock Interview Simulator with Speech-to-Text
-- ⚡ Upstash Redis caching
-- 🔐 Clerk Authentication
-- ☁️ Cloudinary media upload
-- 📊 Sentry monitoring
+- Role-Based Access Control (RBAC)
+- AI Resume Parser
+- Mock Interview Simulator with Speech-to-Text
+- Upstash Redis caching
+- Clerk Authentication
+- Cloudinary media uploads
+- Sentry monitoring
 
 **Tech Stack**
 
 `React` • `TypeScript` • `Node.js` • `Express.js` • `MongoDB` • `Clerk` • `Redis` • `Cloudinary` • `Sentry`
 
-🔗 **Live Demo:** https://insiderjobsfullstack.vercel.app/
+🌐 **Live Demo:** https://insiderjobsfullstack.vercel.app/
 
 ---
 
-## 🌦️ WeatherScope — Weather Analytics Dashboard
+## 🌦️ WeatherScope – Weather Analytics Dashboard
 
-Modern weather analytics dashboard with real-time forecasts and historical weather insights.
+Modern weather dashboard providing real-time forecasts and historical weather insights.
 
-### Key Features
+### Highlights
 
-- 🌍 Real-time weather updates
-- 📈 Historical and hourly weather forecasts
-- 📊 Interactive charts using Recharts
-- 📍 Browser geolocation
-- 🌙 Responsive dark mode interface
+- Real-time weather updates
+- Historical and hourly forecasts
+- Interactive charts with Recharts
+- Browser geolocation support
+- Responsive interface with dark mode
 
 **Tech Stack**
 
 `React` • `Vite` • `Tailwind CSS` • `Recharts` • `Open-Meteo API`
 
-🔗 **Live Demo:** https://weatherscope-three.vercel.app/
+🌐 **Live Demo:** https://weatherscope-three.vercel.app/
 
 ---
 
@@ -156,35 +152,6 @@ Modern weather analytics dashboard with real-time forecasts and historical weath
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ideveshtripathii&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideveshtripathii&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ideveshtripathii&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ideveshtripathii&theme=algolia&no-frame=true&margin-w=15"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ideveshtripathii&theme=github-dark"/>
-</p>
-
----
-
 # 🎓 Certification
 
 - 🏅 Full Stack Web Development — 100xDevs Cohort 3 (July 2024)
@@ -206,7 +173,5 @@ Modern weather analytics dashboard with real-time forecasts and historical weath
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
 
 ⭐ **If you like my work, consider starring my repositories.**

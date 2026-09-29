@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devesh Tripathi</h1>
 
 <h3 align="center">
-Full-Stack MERN Developer | Web Developer Intern @ Navigant Technologies | AI SaaS Builder
+Full-Stack MERN Developer | Backend Developer 
 </h3>
 
 <p align="center">
